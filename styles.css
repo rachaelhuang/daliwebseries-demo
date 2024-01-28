@@ -1,0 +1,30 @@
+
+* {
+    color: green;
+}
+
+p {
+    color: red;
+}
+
+.my-class {
+    color: blue;
+}
+
+#unique-id {
+    color: #000000;
+    color: rgb(25,25,25);
+}
+
+#outer-square {
+    width: 50;
+    height: 50;
+}
+
+.inner-square {
+    font-size: 40px;
+}
+
+#first-square {
+
+}
